@@ -1,0 +1,6 @@
+package com.raymundo.buttonnavegation
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
